@@ -1,4 +1,3 @@
-use std::string;
 
 #[derive(Debug)]
 struct Point {
