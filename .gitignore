@@ -1,6 +1,7 @@
 Cargo.lock
 target/
 .vscode/
+learnings.txt
 
 # Environment variables (CRITICAL - prevent secrets leak)
 .env
