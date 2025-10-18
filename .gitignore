@@ -1,0 +1,12 @@
+Cargo.lock
+target/
+.vscode/
+
+# Environment variables (CRITICAL - prevent secrets leak)
+.env
+.env.*
+!.env.example
+!.env.template
+!.env.sample
+node_modules/
+**/node_modules/
